@@ -8,7 +8,7 @@ export const Profile = () => {
         <div className={styles.content}>
           <h1 className={styles.title}> Hi, I'm Prakash Magar</h1>
           <p className={styles.description}>
-            I'm a <b>Software Engineer </b>and I build things for web. 
+            I'm a <b className={styles.softwareEngineer}>Software Engineer </b>and I build things for web. 
           </p>
           <a href="https://www.linkedin.com/in/prakash-layo-magar-16603a166/" className={styles.contactBtn}>
             Linkedin 

@@ -20,7 +20,7 @@
 }
 
 .title {
-  font-size: 72px;
+  font-size: 65px;
   font-weight: 900;
   margin-bottom: 33px;
   font-family: var(--font-roboto);
@@ -31,7 +31,25 @@
   );
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
+  animation: scaleAnimation 2s infinite alternate;
 }
+@keyframes scaleAnimation {
+    0%, 100% {
+      transform: scale(1);
+    }
+    50% {
+      transform: scale(1.1);
+    }
+  }
+  
+  .softwareEngineer {
+    font-size: 50px;
+    font-weight: bold;
+    color: #fcfdff; 
+    
+  }
+  
+
 
 .description {
   font-size: 30px;
@@ -51,26 +69,12 @@
 }
 
 .MyImg {
-  width: 50%;
-  z-index: 1;
+    height: auto; 
+    width: 40%; 
+    z-index: 1;
 
-  animation-name: floating;
-  animation-duration: 3s;
-  animation-iteration-count: infinite;
-  animation-timing-function: ease-in-out;
-}
-
-@keyframes floating {
-  0% {
-    transform: translate(0, 0px);
   }
-  50% {
-    transform: translate(0, 10px);
-  }
-  100% {
-    transform: translate(0, -0px);
-  }
-}
+  
 
 .topBlur {
   position: absolute;
