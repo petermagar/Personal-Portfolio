@@ -50,7 +50,7 @@ export const Education = () => {
               <p>
                <h4>Jorpati, Kathmandu , Nepal </h4>  
                 <h5>2015 to 2016   </h5> 
-               Higher Secondary Eduaction in Scinece Stream. 
+               Higher Secondary Eduaction in Science Stream. 
               </p>
             </div>
           </li>
