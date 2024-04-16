@@ -19,7 +19,7 @@ export const Profile = () => {
 
         </div>
         <img
-          src={getImageUrl("mypic/Mypic.jpg")}
+          src={getImageUrl("proimg/pro_img.JPG")}
           alt=" image of me"
           className={styles.MyImg}
         />
