@@ -1,6 +1,7 @@
 
 import styles from './App.module.css';
 import { About } from './Components/About/About';
+import { Contact } from './Components/Contact/Contact';
 import { Education } from './Components/Education/Education';
 import { Experience } from './Components/Experience/Experience';
 import { Navbar } from './Components/Navbar/Navbar';
@@ -17,6 +18,7 @@ function App() {
   <Education/>
   <Experience/>
   <Projects/>
+<Contact/>
 
   </div>
 
