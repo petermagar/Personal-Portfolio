@@ -8,13 +8,13 @@
     {
       "title": "Smart Parking System(IOT)",
       "imageSrc": "projects/SmartParking.png",
-      "description": "This is a project made in Cisco.It helps the driver where the parking space is free from notification .It also helps in protection of the car.    ",
+      "description": "This project is made in Cisco. It notifies the driver when a parking space is free , assists in protecting the car and  utilized to make a smart city. ",
       "skills": ["Cisco", "Networking"]
     },
     {
       "title": "School Attendance App",
       "imageSrc": "projects/Attandenceapp.png",
-      "description": "This app helps the school in attandence , class meterials , teacher's appointment ,add faculty ,  student's satifraction and tracks all the records of the students. ",
+      "description": "This app helps in school's attandence, class meterials , teacher's appointment ,add faculty ,  student's satifraction and tracks all the records of the students. ",
       "skills": ["Java" , "Android"]
     }
   ]
