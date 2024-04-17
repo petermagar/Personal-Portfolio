@@ -12,10 +12,7 @@ export const Profile = () => {
           </p>
           <a href="https://www.linkedin.com/in/prakash-layo-magar-16603a166/" className={styles.contactBtn}>
             Linkedin 
-          </a> <br/>
-          <a href="" className={styles.resumeBtn}>
-            Resume
-          </a>
+          </a> 
 
         </div>
         <img
