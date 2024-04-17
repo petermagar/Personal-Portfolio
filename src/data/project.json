@@ -1,0 +1,21 @@
+[
+    {
+      "title": "AccoBnB (Android & Swift)",
+      "imageSrc": "projects/AccoBnb.png",
+      "description": "It is an accommodation finding app for android and iOS platforms. Its core objective is to help students to find accommodation near to the university’s area. ",
+      "skills": ["Kotlin", "Swift"]
+    },
+    {
+      "title": "Smart Parking System(IOT)",
+      "imageSrc": "projects/SmartParking.png",
+      "description": "This is a project made in Cisco.It helps the driver where the parking space is free from notification .It also helps in protection of the car.    ",
+      "skills": ["Cisco", "Networking"]
+    },
+    {
+      "title": "School Attendance App",
+      "imageSrc": "projects/Attandenceapp.png",
+      "description": "This app helps the school in attandence , class meterials , teacher's appointment ,add faculty ,  student's satifraction and tracks all the records of the students. ",
+      "skills": ["Java" , "Android"]
+    }
+  ]
+  
