@@ -16,7 +16,7 @@ export const Profile = () => {
 
         </div>
         <img
-          src={getImageUrl("proimg/pro_img.JPG")}
+          src={getImageUrl("proimg/pro_img.png")}
           alt=" image of me"
           className={styles.MyImg}
         />
