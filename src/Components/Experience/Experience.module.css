@@ -58,8 +58,9 @@
     gap: 40px;
   }
   .experienceContainer {
-    width: 100vw; /* 100% of the viewport width */
-    height: 100vh; /* 100% of the viewport height */
+    width: 100%; /* 100% of the viewport width */
+    display: flex;
+    justify-content: center;
     
   }
   
