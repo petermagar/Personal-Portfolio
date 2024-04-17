@@ -60,7 +60,7 @@
   .experienceContainer {
     width: 100vw; /* 100% of the viewport width */
     height: 100vh; /* 100% of the viewport height */
-    overflow: scroll;
+    
   }
   
   .historyItem {
@@ -98,8 +98,14 @@
   
   @media screen and (max-width: 830px) {
     .content {
-      flex-direction: column; /* Change to column layout in mobile view */
-      align-items: center; /* Center items vertically */
+      flex-direction: column-reverse; 
+      align-items: center; 
+    }
+
+    .container{
+        padding: auto;
+        margin: auto;
+        width: 100%;
     }
   
     .sidebar,

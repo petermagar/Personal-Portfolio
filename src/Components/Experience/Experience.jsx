@@ -12,7 +12,7 @@ export const Experience = () => {
   }, []);
 
   const handleClick = (index) => {
-    setSelectedExperience(index === selectedExperience ? null : index);
+    setSelectedExperience(index === selectedExperience ? selectedExperience : index);
   };
 
   return (
